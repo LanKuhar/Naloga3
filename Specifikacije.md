@@ -6,4 +6,10 @@
 - Meni/navigacija mora biti enostavna in pregledna.
 
 Za razvoj se bomo zgledovali po spletni strani [W3Schools](https://www.w3schools.com/).
+# LDL
+![alt text](Logo.png)
+
+|Razvijalec |Vodja projekta| Tester|
+|-----|----------|-------|
+|Dino |Lan| Luka|
 
