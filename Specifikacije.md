@@ -25,7 +25,8 @@ Za razvoj se bomo zgledovali po spletni strani [W3Schools](https://www.w3schools
 <p>Nasa stran se ukvarja s prodajo računalniških komponent. Je zelo pregledna in funkcionalna.</p>
 
 </body>
-</html>```
+</html>
+```
 
 
 |Razvijalec |Vodja projekta| Tester|
